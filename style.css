@@ -57,7 +57,7 @@ header nav ul li {
   margin-bottom: 10px;
 }
 
-#project-container, #aboutme {
+#project-container, #aboutme, #Adv Engineering {
   margin: 0 auto;
   width: 90%;
   max-width: 600px;
@@ -68,14 +68,14 @@ header nav ul li {
   border-bottom: 1px solid rgb(26, 197, 244);
 }
 
-.project img, #aboutme img {
+.project img, #aboutme img, #AdvEngineering img {
   width: 250px;
   float: left;
   margin-right: 10px;
   margin-bottom: 10px;
 }
 
-.project h2, #aboutme h2 {
+.project h2, #aboutme h2, #AdvEngineering h2 {
   font-size: 1.5em;
   margin-bottom: 10px
 }
